@@ -1,0 +1,36 @@
+Site,Gap_ID,Longitude,Latitude,Altitude,Slope,Aspect,Gap_radius minor,Gap_radius major,Estimated.Age,calculated_area,MaxCGF,n_Boles,n_Snags,nQuadrats,SizeClass,GapType,AvgDecay_class,Ash,Tree_simple,Tree_long,DownedTreeNotes
+B01,B01,-75.38427369,40.60155255,175.1229944,23.21509933,299.3541565,8.8,12.35,11,277.21,0.40478429,10,0,17,small,Fallen,3,1,FRASPP,ash and cedar,
+B02,B02,-75.38383655,40.60058296,201.8963492,18.70496178,332.8289795,8.9,11.1,16,248.68,0.331110024,5,1,17,small,Fallen,4,0,,,
+B03,B03,-75.38525892,40.60011242,204.3673174,22.33677864,335.660614,5.15,10.75,14,131.46,0.474548301,4,1,13,small,Fallen,3,1,FRASPP,,
+B05,B05,-75.37712015,40.60052851,243.5138427,12.56532764,12.26443481,5.2,8.95,16,106.35,0.480354402,4,1,15,small,Fallen,3,1,"FRASPP, PRUSPP",,"2 boles at class 4 are ashes. newest bole is cherry, class 1. snag ash, class. 1"
+B06,B06,-75.37012591,40.60328816,193.0706884,2.264347315,166.3641815,15.9,25,20,1047.89,0.559928244,10,2,63,big,Fallen,2,1,FRASPP,,"snags are ashes, boles are barkless with no galleries. can't ID beyond ""not ash"""
+B07,B07,-75.36938225,40.6021795,197.1194107,21.30670166,16.61914635,11.2,11.85,9,454.48,0.495121325,4,3,26,small,Fallen,3,1,FRASPP,,some small boles very decayed  (5) but two or three very recent blowdowns as well. new boles are ASH. 
+B09,B09,-75.3727895,40.59957571,248.9255243,16.33261299,328.8956604,5.35,5.43,5,69.59,0.286141614,2,2,13,small,Fallen,1,1,FRASPP,,all dead trees ash
+B17,B17,-75.35879182,40.60809255,173.9137518,23.73698616,0.093995847,4.7,7,7,112.68,0.374219081,2,0,13,small,Fallen,2,1,FRASPP,,"bole that made gap is ash DC2. secondary bole is a small birch, DC1"
+B18,B18,-75.35889998,40.6071501,200.8272256,22.2336235,1.442972064,6.3,7.65,7,172.7,0.455727861,4,0,12,small,Fallen,2,0,"QUESPP, FRASPP",,"primary bole quercus, DC 2. other boles ash, DC 2"
+B24,B24,-75.36205848,40.59667773,179.3379026,40.77006531,193.312973,7.3,14.1,1,279.68,0.66046807,3,0,16,small,Fallen,1,0,QUESPP,,"small ash in same tipup as main bole, oak? secondary fall was also oak or wlanuty bark"
+B27,B27,-75.36643818,40.59766068,233.7036826,20.42008781,160.2475739,13.35,18.75,12,718.19,0.784952203,5,5,43,big,Fallen,2,1,FRASPP,,"some snags ash, some snags juglans nigra,. one bole ash , others 5oo decayed "
+B28,B28,-75.36911919,40.59803344,254.6904142,22.20963478,135.759964,8.5,10.5,5,245.19,0.501979044,2,2,15,small,Fallen,3,1,FRASPP,,"snags are betlen, boles are ash"
+B29,B29,-75.37004546,40.59850214,275.4257084,13.90060902,123.2284393,6.1,9.2,11,133.65,0.471481186,3,0,13,small,Fallen,3,1,FRASPP,,"largest is a 3, ash. smallest is a 3, betula lenta. the 4 is too far gone to ID"
+B30,B30,-75.37085001,40.5979326,281.9683557,32.72007751,100.478363,8,8.05,11,221.16,0.463536595,3,3,13,small,Fallen,2,1,FRASPP,,"Snags are ash, boles may be sassafras"
+B32,B32,-75.37152189,40.5939177,220.5614415,20.74913025,117.2243881,7.1,12.25,11,228.62,0.76860001,4,2,13,small,Fallen,4,0,BETLEN,,"many trunks still standing, but full of holes, likely woodpeckerw"
+B33,B33,-75.37598348,40.59271874,264.0925846,30.99309921,186.0532837,4.4,5.6,14,89.7,0.399099482,2,0,13,small,Fallen,3,0,,,boles too old to ID
+B34,B34,-75.37801259,40.59308073,268.0146358,35.71549225,166.4853821,5.5,7.05,16,111.41,0.475156773,2,2,12,small,Fallen,2,1,FRASPP,,snags are ash. DC 1. bole is blackmcherry. DC 1. another bole too old to ID in center is DC 3
+S01,S01,-75.3875208,40.59995643,185.7762289,26.38714409,317.1195068,11,17.5,10,463.88,0.368494172,5,1,27,small,Standing,3,1,FRASPP,fraxinus sp.,"snag is mostly intact. Boles were quite old, likely maple, DBH in the 30s or 40s"
+S02,S02,-75.38290393,40.5988752,235.8764893,15.95696163,324.7661133,5,6.7,7,129.12,0.268098034,2,1,13,small,Standing,2,1,QUESPP,quercus sp.,more intact bole was an ash
+S03,S03,-75.38026248,40.59900124,265.5021528,20.77471542,9.633696556,3.1,3.25,4,29.83,0.253939366,0,1,13,small,Standing,1,0,QUESPP,,
+S04,S04,-75.37712015,40.60052851,243.5138427,12.56532764,12.26443481,7.6,8,4,122,0.409216554,3,2,12,small,Standing,3,1,FRASPP,,"snags ashes, boles oaks. boles 3 ashes 2"
+S05,S05,-75.37691855,40.60130937,232.7906735,12.58947659,333.328186,4.5,13.5,4,207.43,0.342865213,2,2,12,small,Standing,2,1,FRASPP,fraxinus spp,"youngest snag quercus. old snag and boles ash, with decay classes of 2. quercus snag brand new, still had leaves, decay class 1"
+S16,S16,-75.35699068,40.60587136,213.2618395,18.18094826,151.8381042,4.5,6.4,5,128.74,0.239082397,1,2,13,small,Standing,2,0,QUESPP,,both snag and bole oak. bole DC2 snag DC1
+S17,S17,-75.35632408,40.60449136,207.755591,26.05276108,63.20460129,6.55,8.3,5,124.9,0.404429892,2,1,13,small,Fallen,2,1,FRASPP,,snag I used for sat ID has fallen
+S18,S18,-75.35400575,40.60392327,189.0468606,19.71785927,19.43970108,6,6.05,5,76.02,0.316858513,0,2,13,small,Standing,1,0,"QUERUB, .QUEMON",,red oak formed the gap 
+S20,S20,-75.35536212,40.60225292,237.2428996,26.41339111,73.79833984,2.9,10.8,5,152.7,0.380903496,1,2,13,small,Standing,2,1,FRASPP,"snags ash, 1. bole oak, 2",
+S23,S23,-75.36084587,40.59847508,227.5731095,13.6490097,194.2484741,5.3,6.2,5,143.62,0.376353442,1,4,13,small,Standing,1,0,QUERCUS,,
+S24,S24,-75.3681359,40.59808701,248.7072853,16.25296021,187.6885681,6.4,10.8,5,156.07,0.366914098,2,0,13,small,Fallen,3,0,,,
+S25,S25,-75.37017402,40.59619308,234.4898814,36.96430969,127.9033585,10.05,14.1,9,318.59,0.481531701,1,2,19,small,Standing,2,0,"QUERCUS, BETULAA",,snag is white oak. DC1. secondary snag birch. bole birch DC3
+S26,S26,-75.37123662,40.59436851,222.7150704,27.77010536,129.4447632,8.14,9.2,4,227.63,0.402569868,4,1,13,small,Fallen,3,1,"FRASPP, PRUSPP",,snags that we IDd by sat have fallen DC 1. both cherry. boles are ash DC 4
+S28,S28,-75.37284152,40.59943742,252.1646664,26.07670975,332.9742737,3.55,7.3,5,62.91,0.401934443,4,0,13,small,Fallen,1,1,"FRASPP, PRUSPP",,"largest is an ash, the rest are cherries. cherries were alive when they came dowm. PS cherries may be black birch (betula lenta) "
+S29,S29,-75.37374504,40.59934796,247.1571889,10.05084038,305.9347839,6.75,7.9,5,155.98,0.427981218,3,2,13,small,Standing,1,1,FRASPP,fraxinus americana,
+S30,S30,-75.37374504,40.59934796,247.1571889,10.05084038,305.9347839,3.65,3.9,5,31.36,0.292042053,0,1,13,small,Standing,1,1,FRASPP,,
+S31,S31,-75.37578645,40.597618,250.4394702,12.70781517,357.4744568,3.25,3.5,7,23.22,0.250246851,1,2,13,small,Standing,1,1,"FRASPP, ROBPSE",robinia pseudoacacia,main snag is ash
+SG1,SG1,-75.35652551,40.60339975,226.6029631,27.32205391,32.94040298,7,11.6,5,153.55,0.30684013,2,5,13,small,Standing,1,1,"FRASPP, BETLEN",,"snags ash & birch 1, cant ID boles 3"

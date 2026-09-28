@@ -1,0 +1,89 @@
+﻿Species_simple,Species_long,Common_name,Form,Invasive_status,ShadeTolerance,HumbertIndex,AccSpeciesID    ,Dataset
+ACENEG,acer negundo,boxelder maple,tree,N,ShadeTolerant,,841,TRY49
+ACENIG,acer nigrum,black maple,tree,N,ShadeTolerant,,842,TRY49
+ACEPLA,acer platanoides,norway maple,tree,I,Intermediate,,854,TRY49
+ACERUB,acer rubrum,red maple,tree,N,Intermediate,5,859,TRY49
+ACESAC,acer saccharum,sugar maple,tree,N,ShadeTolerant,4,863,TRY49
+ACESPP,acer species,undifferentiated maple species,tree,N,,,,
+ACTRAC,actaea racemosa,black cohosh,herb,N,ShadeTolerant,3,200831,
+AESGLA,aesculus glabra,ohio buckeye,tree,N,ShadeTolerant,,1570,TRY49
+AGEALT,ageratina altissima,white snakeroot,herb,N,Intermediate,6,1723,
+AILALT,ailanthus altissima,tree of heaven,tree,I,Intolerant,,2124,TRY49
+ALIPET,alliaria petiolata,garlic mustard,herb,I,ShadeTolerant,,2496,
+ALLVIL,allium vineale,wild garlic,herb,I,Intermediate,,2590,
+AMPBRA,amphicarpaea bracteata,american hog peanut,herb,N,ShadeTolerant,,3289,
+ARASPI,aralia elata,devils walking stick,tree,I,Intolerant,,4403,TRY49
+ARITRI,arisaema triphyllum,jack-in-the-pulpit,herb,N,ShadeTolerant,,4699,
+BERTHU,"berberis thunbergii7226	",japanese barberry,shrub,I,ShadeTolerant,,7226,
+BETLEN,betula lenta,black birch,tree,N,Intolerant,6,7341,TRY49
+BOTVIR,botrypus virginianus,rattlesnake fern,herb,N,ShadeTolerant,3,,
+CAMRAD,campsis radicans,trumpet vine,vine,N,Intermediate,,10014,
+CARBLA,carex blanda,eastern wood sedge,grass,N,ShadeTolerant,,64302,
+CARCAR,carpinus carolina,ironwood,tree,N,ShadeTolerant,,,TRY92
+CARLAC,carya laciniosa,,tree,N,Intermediate,,,
+CARROS,carex rosae,rose sedge,grass,N,ShadeTolerant,,66408,
+CARSPP,carex species,undifferentiated sedge,grass,N,,,,
+CARSWA,carex swanii,swan sedge,grass,N,ShadeTolerant,,77926,
+CARYSP,carya species,hickory species,tree,N,Intolerant,,,
+CELORB,celastrus orbiculatus,oriental bittersweet,vine,I,Intermediate,,11403,
+CHIMAC,chimaphila maculata,spotted wintergreen,herb,N,ShadeTolerant,4,78675,
+CIRCAN,circaea canadensis,broad leaved enchanters nightshade,herb,N,Intermediate,4,66641,
+CLETER,clematis terniflora,sweet autumn clematis,herb,I,,,13407,
+CONAME,conopholis americana,american cancer root,herb,N,Variable,,215953,
+DENPUN,dennstaedtia punctilobula,eastern hay scented fern,herb,N,Intermediate,,17325,
+DICCLA,dichanthelium clandestinum,deer tongue grass,grass,N,Intermediate,,,
+DIOVIL,dioscorea villosa,wild yam,herb,N,Intermediate,,18413,
+DRYMAR,dryopteris marginalis,marginal wood fern,herb,N,Variable,,19421,
+EPIHEL,epipactis hellborine,broadleaved hellborine,herb,I,ShadeTolerant,,424720,
+EREHIE,erechtites hieraciifolius,american burnweed,herb,N,Intolerant,,82655,TRY92
+EUOFOR,euonymus alatus,fortunes spindle,shrub,I,Intermediate,,23252,TRY49
+EURDIV,eurybia divaricata,white wood aster,herb,N,ShadeTolerant,6,227659,
+FRAAME,fraxinus americana,white ash,tree,N,Intermediate,,25239,
+FRASPP,fraxinus species,undifferentiated ash species,tree,N,Intermediate,,,TRY49
+FRAVES,fragaria vesca,wild strawberry,herb,N,Intolerant,9,25213,
+GALTRI,galium triforum,fragrant bedstraw,herb,N,Variable,,25568,
+GLETRI,gleditsia triacanthos,honey locust,tree,N,Intolerant,,26351,TRY49
+HACVIR,hackelia virginiana,virginia stickseed,herb,N,Intermediate,,27544,TRY92
+HALCAR,halesia carolina,silverbell tree,tree,N,ShadeTolerant,,27702,TRY49
+HAMVIR,hamamelis virginiana,witch hazel,shrub,N,Intermediate,,27810,TRY49
+IMPSPP,impatiens spp,undifferentiated impatiens species,herb,N,,,,
+LEESPP,leersia species,"cutgrass species, may be virginica",grass,N,,,,
+LIRTUL,liriodendron tulipifera,tulip tree,tree,N,Intolerant,,33707,TRY49
+LONJAP,lonicera japonica,japanese honeysuckle,vine,I,Intermediate,6,34141,
+LONMAA,lonicera maackii,amur honeysuckle,shrub,I,ShadeTolerant,,34144,
+MAIRAC,maianthemum racemosum,false solomons seal,herb,N,Intermediate,,35089,
+MENCAN,menispermum canadense,common moonseed,vine,N,ShadeTolerant,,36256,
+MICVIM,microstegium vimineum,japanese stiltgrass,grass,I,Intermediate,,36717,
+NYSSAL,nyssa sylvatica,"black tupleo, black gum",tree,N,Intermediate,,38411,TRY49
+OXASTR,oxalis stricta,common yellow wood sorrel,herb,N,ShadeTolerant,,39598,
+PARPEN,parietaria pensylvanica,pennsylvania pellitory,herb,N,ShadeTolerant,,40308,TRY92
+PARQUI,parthenocissus quinquefolia,virginia creeper,vine,N,Intermediate,6,40428,
+PERLON,persicaria longiseta,asiatic lady's thumb,herb,I,Intolerant,,102167,
+PERPER,persicaria perfoliata,mile a minute weed,herb,I,Intermediate,,,
+PERVIR,persicaria virginiana,jumpseed,herb,N,Intermediate,,41200,
+PHYAME,phytolacca americana,pokeweed,herb,N,Intermediate,,41897,
+POASPP,poacaea species,undifferentiated grass,grass,N,Intolerant,,,
+POLBIF,polygonatum biflorum,smooth solomons seal,herb,N,ShadeTolerant,,43200,
+POLMUL,polygonatum multiflorum,common solomons seall,herb,N,ShadeTolerant,,43204,
+POLYPO,polypodiales species,undifferentiated fern,herb,N,ShadeTolerant,,,
+PREALT,prenanthes altissima,"also nabulus altissima, tall rattlesnake root",herb,N,Intermediate,,,
+PRUSER,prunus serotina,black cherry,tree,N,Intolerant,8,44414,TRY49
+PRUSPP,prunus species,undifferentiated cherry species,tree,N,Intolerant,,,
+QUEMON,quercus montana,chestnut oak,tree,N,Intermediate,,70910,
+QUESPP,quercus species,undifferentiated oak specie,tree,N,Intermediate,7,,
+ROBPSE,robinia pseudoacacia,black locust,tree,N,Intolerant,,46621,TRY49
+RUBFLA,rubus flagellaris,northern dewberry,herb,N,Intermediate,,47049,
+RUBPHO,rubus phoenicolasius,wineberry,shrub,I,Intolerant,8,47261,TRY49
+SASALB,sassafras albidum,sassafras,tree,N,Intolerant,,48458,TRY49
+SOLDUL,solanum dulcamara,bittersweet nightshade,vine,I,Intermediate,6,50679,
+STEMED,stellaria media,common chickweed,herb,I,Intermediate,,51634,
+THENOV,thelypteris noveboracensis,New York Fern,herb,N,Variable,,246969,
+TOXRAD,toxicodendron radicans,poison ivy,vine,N,ShadeTolerant,6,54547,TRY92
+ULMRUB,ulmus rubra,slippery elm,tree,N,ShadeTolerant,6,55473,TRY49
+URTDIO,urtica dioica,stinging nettle,herb,N,ShadeTolerant,,55598,
+VIBACE,viburnum acerifolium,maple leaf viburnum,shrub,N,Intermediate,,56300,
+VIBPRU,viburnum prunifolium,blackhaw ,shrub,N,Intermediate,,56327,
+VIBRUF,viburnum rufidulum,southern or rusty blackhaw,shrub,N,Intermediate,,56332,TRY49
+VIOSOR,viola sororia,common blue violet,herb,N,ShadeTolerant,3,56580,
+VIOSPP,viola species,undifferentiated violet species,herb,N,ShadeTolerant,3,,
+VITAES,vitis aestivalis,summer grape,vine,N,Intolerant,7,56728,
